@@ -1,0 +1,6 @@
+Tue Sep 13 14:00:40 (INFO ): [-] --- application start ---
+Tue Sep 13 14:00:40 (INFO ): [-] QLog file is: D:\Formula\Cruden\Panthera\data\cars\formula_student\ephyse_net\v0\formula_electric\Library\QLOG.txt
+Tue Sep 13 14:00:40 (INFO ): [-] Throttler is enabled [throttler.cpp:136 / aInit]
+Tue Sep 13 15:07:24 (INFO ): [-] ini file not found.. Terminate model [racerinfo.cpp:74 / aInit]
+Tue Sep 13 15:07:24 (INFO ): [-] the QInfo file ( ephysenet.ini ) is mandatory in the s_func RacerInfo [racerinfo.cpp:75 / aInit]
+Tue Sep 13 15:07:24 (INFO ): [-] looking in directory:  [racerinfo.cpp:76 / aInit]
