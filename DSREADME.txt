@@ -1,0 +1,1 @@
+1. Download Panthera Free from http://www.cruden.com/pantherafree.html
